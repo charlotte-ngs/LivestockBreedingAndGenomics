@@ -14,7 +14,7 @@ Please note: for ETH administration there are two courses (different numbers) an
 
 
 ## Syllabus
-The [syllabus](https://cloud.sagemath.com/projects/ff07bb15-dec7-4144-90de-60fcceb99853/files/LBG_Syllabus/pdf/LBG_Syllabus.pdf) of the course is available as pdf document. There you find all required information about the course.
+The [syllabus](https://cloud.sagemath.com/projects/ff07bb15-dec7-4144-90de-60fcceb99853/files/LBG_Syllabus/pdf/LBG_Syllabus.pdf) (the link does not work with Internet Explorer) of the course is available as pdf document. There you find all required information about the course.
 
 
 ## Basic Information
