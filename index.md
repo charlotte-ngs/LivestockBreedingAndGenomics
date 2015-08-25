@@ -39,12 +39,18 @@ Week | Date  |  Topic                                                          |
 -----|-------|-----------------------------------------------------------------|----------
 1    | 18.09 | Introduction to the course, Introduction to R, selection index  |  BG, PvR
 2    | 25.09 | Selection index multiple traits                                 |  PvR
-
+...  | ...   | TBC                                                             |  ...
 
 ### Excercises
 Week | Date  |  Topic                                       |  Lecturer
 -----|-------|----------------------------------------------|----------
 1    | 18.09 | No exercise                                  |  
 2    | 25.09 | Introduction to R, selection index           |  PvR
+...  | ...   | TBC                                          |  ...
+
+
+------
+
+_Last Modification: 2015/08/25 (pvr)_
 
 
