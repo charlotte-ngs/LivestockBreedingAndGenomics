@@ -37,7 +37,7 @@ Folien und Übungen können hier heruntergeladen werden.
 
 Woche | Datum  |  Thema                                                          |  Wer
 ------|--------|-----------------------------------------------------------------|----------
-1     | 18.09  | Einführung in die Vorlesung, Einführung in R, Selektionsindex   |  PvR
+1     | 18.09  | [Einführung in die Vorlesung, Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w1/KursEinfuehrung.pdf)   |  PvR
 2     | 25.09  | Selektionsindex mit mehreren Merkmalen                          |  PvR
 3     | 02.10  | Verwandtschaftsmatrix und ihre Inverse                          |  PvR
 4     | 09.10  | keine Vorlesung                                                 |
