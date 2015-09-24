@@ -60,8 +60,14 @@ Woche | Datum  |  Thema                                       |  Wer
 2     | 25.09  | [Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_u1.pdf)             |  PvR
 
 
+### Weitere Materialien
+Woche | Datum  |  Thema                                       |  Wer
+------|--------|----------------------------------------------|----------
+1     | 18.09  | [Umfrage Programmiererfahrung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w1/UmfrageProgrammierErfahrung.pdf)   |  PvR
+
+
 ------
 
-_Letzte Modifikation: 2015/09/15 (pvr)_
+_Letzte Modifikation: 2015/09/17 (pvr)_
 
 
