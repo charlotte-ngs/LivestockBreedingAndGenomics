@@ -38,7 +38,7 @@ Folien und Übungen können hier heruntergeladen werden.
 Woche | Datum  |  Thema                                                          |  Wer
 ------|--------|-----------------------------------------------------------------|----------
 1     | 18.09  | [Einführung in die Vorlesung, Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w1/KursEinfuehrung.pdf)   |  PvR
-2     | 25.09  | [Selektionsindex mit mehreren Merkmalen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_v2_SelektionsIndexMehrMerkmal.pdf)                          |  PvR
+2     | 25.09  | [Selektionsindex mit mehreren Merkmalen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_v2_SelektionsIndexMehrMerkmal.pdf)  |  PvR
 3     | 02.10  | Verwandtschaftsmatrix und ihre Inverse                          |  PvR
 4     | 09.10  | keine Vorlesung                                                 |
 5     | 16.10  | Korrektur von fixen Effekten                                    |  PvR
@@ -64,10 +64,10 @@ Woche | Datum  |  Thema                                       |  Wer
 Woche | Datum  |  Thema                                       |  Wer
 ------|--------|----------------------------------------------|----------
 1     | 18.09  | [Umfrage Programmiererfahrung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w1/UmfrageProgrammierErfahrung.pdf)   |  PvR
-
+2     | 25.09  | [Videos zur Genomischen Selektion](http://homepage.braunvieh.ch/xml_1/internet/de/application/d4/d503/f1886.cfm)   |  PvR
 
 ------
 
-_Letzte Modifikation: 2015/09/24 (pvr)_
+_Letzte Modifikation: 2015/09/25 (pvr)_
 
 
