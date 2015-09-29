@@ -57,7 +57,14 @@ Woche | Datum  |  Thema                                                         
 Woche | Datum  |  Thema                                       |  Wer
 ------|--------|----------------------------------------------|----------
 1     | 18.09  | keine Übung                                  |  
-2     | 25.09  | [Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_u1.pdf)             |  PvR
+2     | 25.09  | [Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_u1.pdf)  |  PvR
+3     | 02.10  | [Vektoren, Matrizen und Daten in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_u2.pdf)  |  PvR
+
+
+### Lösungen
+Woche | Datum  |  Thema                                       |  Wer
+------|--------|----------------------------------------------|----------
+3     | 02.10  | [Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_l1.pdf)  |  PvR
 
 
 ### Weitere Materialien
@@ -65,9 +72,11 @@ Woche | Datum  |  Thema                                       |  Wer
 ------|--------|----------------------------------------------|----------
 1     | 18.09  | [Umfrage Programmiererfahrung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w1/UmfrageProgrammierErfahrung.pdf)   |  PvR
 2     | 25.09  | [Videos zur Genomischen Selektion](http://homepage.braunvieh.ch/xml_1/internet/de/application/d4/d503/f1886.cfm)   |  PvR
+3     | 02.10  | [Datensatz zu Übung 2](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/br_st_gew.csv)  |  PvR
+
 
 ------
 
-_Letzte Modifikation: 2015/09/25 (pvr)_
+_Letzte Modifikation: 2015/09/29 (pvr)_
 
 
