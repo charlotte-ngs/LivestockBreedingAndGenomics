@@ -39,7 +39,7 @@ Woche | Datum  |  Thema                                                         
 ------|--------|-----------------------------------------------------------------|----------
 1     | 18.09  | [Einführung in die Vorlesung, Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w1/KursEinfuehrung.pdf)   |  PvR
 2     | 25.09  | [Selektionsindex mit mehreren Merkmalen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_v2_SelektionsIndexMehrMerkmal.pdf)  |  PvR
-3     | 02.10  | Verwandtschaftsmatrix und ihre Inverse                          |  PvR
+3     | 02.10  | [Zuchtwert, Verwandtschaftsmatrix und Inzucht](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_v3_ZsfZwVerwandtschaft.pdf)           |  PvR
 4     | 09.10  | keine Vorlesung                                                 |
 5     | 16.10  | Korrektur von fixen Effekten                                    |  PvR
 6     | 23.10  | Anova                                                           |  PvR
@@ -72,11 +72,12 @@ Woche | Datum  |  Thema                                       |  Wer
 ------|--------|----------------------------------------------|----------
 1     | 18.09  | [Umfrage Programmiererfahrung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w1/UmfrageProgrammierErfahrung.pdf)   |  PvR
 2     | 25.09  | [Videos zur Genomischen Selektion](http://homepage.braunvieh.ch/xml_1/internet/de/application/d4/d503/f1886.cfm)   |  PvR
+2     | 25.09  | [Wandtafel zu Übung 1](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_u1_wandtafel.jpg)   |  PvR
 3     | 02.10  | [Datensatz zu Übung 2](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/br_st_gew.csv)  |  PvR
 
 
 ------
 
-_Letzte Modifikation: 2015/09/29 (pvr)_
+_Letzte Modifikation: 2015/10/01 (pvr)_
 
 
