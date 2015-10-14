@@ -59,12 +59,14 @@ Woche | Datum  |  Thema                                       |  Wer
 1     | 18.09  | keine Übung                                  |  
 2     | 25.09  | [Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_u1.pdf)  |  PvR
 3     | 02.10  | [Vektoren, Matrizen und Daten in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_u2.pdf)  |  PvR
+5     | 16.10  | [Multiple lineare Regression und Funktionen in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_u3.pdf)  |  PvR
 
 
 ### Lösungen
 Woche | Datum  |  Thema                                       |  Wer
 ------|--------|----------------------------------------------|----------
 3     | 02.10  | [Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_l1.pdf)  |  PvR
+5     | 16.10  | [Vektoren, Matrizen und Daten in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_l2.pdf)  |  PvR
 
 
 ### Weitere Materialien
@@ -74,10 +76,11 @@ Woche | Datum  |  Thema                                       |  Wer
 2     | 25.09  | [Videos zur Genomischen Selektion](http://homepage.braunvieh.ch/xml_1/internet/de/application/d4/d503/f1886.cfm)   |  PvR
 2     | 25.09  | [Wandtafel zu Übung 1](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_u1_wandtafel.jpg)   |  PvR
 3     | 02.10  | [Datensatz zu Übung 2](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/br_st_gew.csv)  |  PvR
+5     | 16.10  | [Datensatz zu Übung 3](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/simgenphen.csv)  |  PvR
 
 
 ------
 
-_Letzte Modifikation: 2015/10/01 (pvr)_
+_Letzte Modifikation: 2015/10/14 (pvr)_
 
 
