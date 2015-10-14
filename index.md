@@ -77,6 +77,7 @@ Woche | Datum  |  Thema                                       |  Wer
 2     | 25.09  | [Wandtafel zu Übung 1](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_u1_wandtafel.jpg)   |  PvR
 3     | 02.10  | [Datensatz zu Übung 2](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/br_st_gew.csv)  |  PvR
 5     | 16.10  | [Datensatz zu Übung 3](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/simgenphen.csv)  |  PvR
+5     | 16.10  | [Webapplikation Quantitative Genetik](https://lbg-ethz.shinyapps.io/QgenDemoSwa)  |  PvR
 
 
 ------
