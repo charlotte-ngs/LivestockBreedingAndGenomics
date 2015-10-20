@@ -37,11 +37,11 @@ Folien und Übungen können hier heruntergeladen werden.
 
 Woche | Datum  |  Thema                                                          |  Wer
 ------|--------|-----------------------------------------------------------------|----------
-1     | 18.09  | [Einführung in die Vorlesung, Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w1/KursEinfuehrung.pdf)   |  PvR
-2     | 25.09  | [Selektionsindex mit mehreren Merkmalen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_v2_SelektionsIndexMehrMerkmal.pdf)  |  PvR
-3     | 02.10  | [Zuchtwert, Verwandtschaftsmatrix und Inzucht](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_v3_ZsfZwVerwandtschaft.pdf)           |  PvR
+1     | 18.09  | [Einführung in die Vorlesung, Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w1/KursEinfuehrung.pdf)  |  PvR
+2     | 25.09  | [Selektionsindex mit mehreren Merkmalen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_v2_SelektionsIndexMehrMerkmal.pdf)     |  PvR
+3     | 02.10  | [Zuchtwert, Verwandtschaftsmatrix und Inzucht](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_v3_ZsfZwVerwandtschaft.pdf)      |  PvR
 4     | 09.10  | keine Vorlesung                                                 |
-5     | 16.10  | [Verwandtschaft, Inzucht, Inverse](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_v4_VerwandtschaftInzuchtInverse.pdf)  |  PvR
+5     | 16.10  | [Verwandtschaft, Inzucht, Inverse](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_v4_VerwandtschaftInzuchtInverse.pdf)         |  PvR
 6     | 23.10  | Anova                                                           |  PvR
 7     | 30.10  | Varianzkomponententschätzung I                                  |  PvR
 8     | 06.11  | Varianzkomponententschätzung II, BLUP ein Merkmal               |  PvR, BG
@@ -67,21 +67,22 @@ Woche | Datum  |  Thema                                       |  Wer
 ------|--------|----------------------------------------------|----------
 3     | 02.10  | [Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_l1.pdf)  |  PvR
 5     | 16.10  | [Vektoren, Matrizen und Daten in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_l2.pdf)  |  PvR
+6     | 23.10  | [Multiple lineare Regression und Funktionen in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w6/zl_w6_l3.pdf)  |  PvR
 
 
 ### Weitere Materialien
 Woche | Datum  |  Thema                                       |  Wer
 ------|--------|----------------------------------------------|----------
 1     | 18.09  | [Umfrage Programmiererfahrung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w1/UmfrageProgrammierErfahrung.pdf)   |  PvR
-2     | 25.09  | [Videos zur Genomischen Selektion](http://homepage.braunvieh.ch/xml_1/internet/de/application/d4/d503/f1886.cfm)   |  PvR
-2     | 25.09  | [Wandtafel zu Übung 1](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_u1_wandtafel.jpg)   |  PvR
-3     | 02.10  | [Datensatz zu Übung 2](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/br_st_gew.csv)  |  PvR
-5     | 16.10  | [Datensatz zu Übung 3](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/simgenphen.csv)  |  PvR
-5     | 16.10  | [Webapplikation Quantitative Genetik](https://lbg-ethz.shinyapps.io/QgenDemoSwa)  |  PvR
-
+2     | 25.09  | [Videos zur Genomischen Selektion](http://homepage.braunvieh.ch/xml_1/internet/de/application/d4/d503/f1886.cfm)                 |  PvR
+2     | 25.09  | [Wandtafel zu Übung 1](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_u1_wandtafel.jpg)                    |  PvR
+3     | 02.10  | [Datensatz zu Übung 2](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/br_st_gew.csv)                             |  PvR
+5     | 16.10  | [Datensatz zu Übung 3](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/simgenphen.csv)                            |  PvR
+5     | 16.10  | [Webapplikation Quantitative Genetik](https://lbg-ethz.shinyapps.io/QgenDemoSwa)                                                 |  PvR
+6     | 23.10  | [Korrigierter Datensatz zu Übung 3](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/simgenphencorr.csv)           |  PvR 
 
 ------
 
-_Letzte Modifikation: 2015/10/15 (pvr)_
+_Letzte Modifikation: 2015/10/20 (pvr)_
 
 
