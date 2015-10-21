@@ -60,6 +60,7 @@ Woche | Datum  |  Thema                                       |  Wer
 2     | 25.09  | [Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w2/zl_w2_u1.pdf)  |  PvR
 3     | 02.10  | [Vektoren, Matrizen und Daten in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_u2.pdf)  |  PvR
 5     | 16.10  | [Multiple lineare Regression und Funktionen in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_u3.pdf)  |  PvR
+6     | 23.10  | [Verwandtschaft, Inzucht und Loops](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w6/zl_w6_u4.pdf)  |  PvR
 
 
 ### Lösungen
@@ -83,6 +84,6 @@ Woche | Datum  |  Thema                                       |  Wer
 
 ------
 
-_Letzte Modifikation: 2015/10/20 (pvr)_
+_Letzte Modifikation: 2015/10/21 (pvr)_
 
 
