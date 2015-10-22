@@ -42,7 +42,7 @@ Woche | Datum  |  Thema                                                         
 3     | 02.10  | [Zuchtwert, Verwandtschaftsmatrix und Inzucht](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_v3_ZsfZwVerwandtschaft.pdf)      |  PvR
 4     | 09.10  | keine Vorlesung                                                 |
 5     | 16.10  | [Verwandtschaft, Inzucht, Inverse](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_v4_VerwandtschaftInzuchtInverse.pdf)         |  PvR
-6     | 23.10  | Anova                                                           |  PvR
+6     | 23.10  | [Inverse der Verwandtschaftsmatrix](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w6/zl_w6_v5_InverseVerwMat.pdf)   |  PvR
 7     | 30.10  | Varianzkomponententschätzung I                                  |  PvR
 8     | 06.11  | Varianzkomponententschätzung II, BLUP ein Merkmal               |  PvR, BG
 9     | 13.11  | BLUP mehrere Merkmale, wirtschaftliche Gewichte                 |  BG
@@ -84,6 +84,6 @@ Woche | Datum  |  Thema                                       |  Wer
 
 ------
 
-_Letzte Modifikation: 2015/10/21 (pvr)_
+_Letzte Modifikation: 2015/10/22 (pvr)_
 
 
