@@ -43,7 +43,7 @@ Woche | Datum  |  Thema                                                         
 4     | 09.10  | keine Vorlesung                                                 |
 5     | 16.10  | [Verwandtschaft, Inzucht, Inverse](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_v4_VerwandtschaftInzuchtInverse.pdf)         |  PvR
 6     | 23.10  | [Inverse der Verwandtschaftsmatrix](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w6/zl_w6_v5_InverseVerwMat.pdf)   |  PvR
-7     | 30.10  | Varianzkomponententschätzung I                                  |  PvR
+7     | 30.10  | [Varianzkomponententschätzung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_v6_Varianzkomponenten.pdf)    |  PvR
 8     | 06.11  | Varianzkomponententschätzung II, BLUP ein Merkmal               |  PvR, BG
 9     | 13.11  | BLUP mehrere Merkmale, wirtschaftliche Gewichte                 |  BG
 10    | 20.11  | Kopplungsungleichgewicht                                        |  BG
@@ -61,7 +61,7 @@ Woche | Datum  |  Thema                                       |  Wer
 3     | 02.10  | [Vektoren, Matrizen und Daten in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_u2.pdf)  |  PvR
 5     | 16.10  | [Multiple lineare Regression und Funktionen in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_u3.pdf)  |  PvR
 6     | 23.10  | [Verwandtschaft, Inzucht und Loops](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w6/zl_w6_u4.pdf)  |  PvR
-
+7     | 30.10  | [Pedigreemm und Fallunterscheidung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_u5.pdf)  |  PvR
 
 ### Lösungen
 Woche | Datum  |  Thema                                       |  Wer
@@ -69,6 +69,7 @@ Woche | Datum  |  Thema                                       |  Wer
 3     | 02.10  | [Einführung in R, Selektionsindex](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w3/zl_w3_l1.pdf)  |  PvR
 5     | 16.10  | [Vektoren, Matrizen und Daten in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_l2.pdf)  |  PvR
 6     | 23.10  | [Multiple lineare Regression und Funktionen in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w6/zl_w6_l3.pdf)  |  PvR
+7     | 30.10  | [Verwandtschaft, Inzucht und Loops](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_l4.pdf)  |  PvR
 
 
 ### Weitere Materialien
@@ -81,9 +82,10 @@ Woche | Datum  |  Thema                                       |  Wer
 5     | 16.10  | [Datensatz zu Übung 3](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/simgenphen.csv)                            |  PvR
 5     | 16.10  | [Webapplikation Quantitative Genetik](https://lbg-ethz.shinyapps.io/QgenDemoSwa)                                                 |  PvR
 6     | 23.10  | [Korrigierter Datensatz zu Übung 3](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/simgenphencorr.csv)           |  PvR 
+7     | 30.10  | [Datensatz zu Übung 5](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_u5_DataLmm.csv)                     |  PvR
 
 ------
 
-_Letzte Modifikation: 2015/10/22 (pvr)_
+_Letzte Modifikation: 2015/10/29 (pvr)_
 
 
