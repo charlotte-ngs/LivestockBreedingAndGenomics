@@ -70,6 +70,7 @@ Woche | Datum  |  Thema                                       |  Wer
 5     | 16.10  | [Vektoren, Matrizen und Daten in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_l2.pdf)  |  PvR
 6     | 23.10  | [Multiple lineare Regression und Funktionen in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w6/zl_w6_l3.pdf)  |  PvR
 7     | 30.10  | [Verwandtschaft, Inzucht und Loops](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_l4.pdf)  |  PvR
+8     | 06.11  | [Pedigreemm und Fallunterscheidung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/zl_w8_l5.pdf)  |  PvR
 
 
 ### Weitere Materialien
@@ -86,6 +87,6 @@ Woche | Datum  |  Thema                                       |  Wer
 
 ------
 
-_Letzte Modifikation: 2015/10/29 (pvr)_
+_Letzte Modifikation: 2015/11/03 (pvr)_
 
 
