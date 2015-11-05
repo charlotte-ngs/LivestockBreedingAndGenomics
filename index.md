@@ -62,6 +62,7 @@ Woche | Datum  |  Thema                                       |  Wer
 5     | 16.10  | [Multiple lineare Regression und Funktionen in R](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_u3.pdf)  |  PvR
 6     | 23.10  | [Verwandtschaft, Inzucht und Loops](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w6/zl_w6_u4.pdf)  |  PvR
 7     | 30.10  | [Pedigreemm und Fallunterscheidung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_u5.pdf)  |  PvR
+8     | 06.11  | [Inverse der Verwandtschaftsmatrix](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/zl_w8_u6.pdf)  |  PvR
 
 ### Lösungen
 Woche | Datum  |  Thema                                       |  Wer
@@ -87,6 +88,6 @@ Woche | Datum  |  Thema                                       |  Wer
 
 ------
 
-_Letzte Modifikation: 2015/11/03 (pvr)_
+_Letzte Modifikation: 2015/11/05 (pvr)_
 
 
