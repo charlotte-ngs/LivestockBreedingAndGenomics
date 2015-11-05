@@ -44,7 +44,8 @@ Woche | Datum  |  Thema                                                         
 5     | 16.10  | [Verwandtschaft, Inzucht, Inverse](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/zl_w5_v4_VerwandtschaftInzuchtInverse.pdf)         |  PvR
 6     | 23.10  | [Inverse der Verwandtschaftsmatrix](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w6/zl_w6_v5_InverseVerwMat.pdf)   |  PvR
 7     | 30.10  | [Varianzkomponententschätzung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_v6_Varianzkomponenten.pdf)    |  PvR
-8     | 06.11  | Varianzkomponententschätzung II, BLUP ein Merkmal               |  PvR, BG
+8     | 06.11  | [Übersicht](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/zl_w8_v7_Uebersicht.pdf)                               |  PvR
+8     | 06.11  | BLUP ein Merkmal                                                |  BG
 9     | 13.11  | BLUP mehrere Merkmale, wirtschaftliche Gewichte                 |  BG
 10    | 20.11  | Kopplungsungleichgewicht                                        |  BG
 11    | 27.11  | Genomische Selektion I                                          |  BG
