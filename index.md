@@ -46,7 +46,7 @@ Woche | Datum  |  Thema                                                         
 7     | 30.10  | [Varianzkomponententschätzung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_v6_Varianzkomponenten.pdf)    |  PvR
 8     | 06.11  | [Übersicht](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/zl_w8_v7_Uebersicht.pdf)                               |  PvR
 8     | 06.11  | [BLUP ein Merkmal](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/Slides_woche8_Upload.pdf)  |  BG
-9     | 13.11  | BLUP mehrere Merkmale, wirtschaftliche Gewichte                 |  BG
+9     | 13.11  | [Verschiedene BLUP Modelle](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w9/Slides_woche9_Upload.pdf)  |  BG
 10    | 20.11  | Kopplungsungleichgewicht                                        |  BG
 11    | 27.11  | Genomische Selektion I                                          |  BG
 12    | 04.12  | Genomische Selektion II                                         |  BG
@@ -64,6 +64,7 @@ Woche | Datum  |  Thema                                       |  Wer
 6     | 23.10  | [Verwandtschaft, Inzucht und Loops](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w6/zl_w6_u4.pdf)  |  PvR
 7     | 30.10  | [Pedigreemm und Fallunterscheidung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_u5.pdf)  |  PvR
 8     | 06.11  | [Inverse der Verwandtschaftsmatrix](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/zl_w8_u6.pdf)  |  PvR
+9     | 13.11  | [Aufstellen BLUP Mischmodellgleichungen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w9/Uebung7.pdf)  |  BG
 
 ### Lösungen
 Woche | Datum  |  Thema                                       |  Wer
