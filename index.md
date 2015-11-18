@@ -76,7 +76,7 @@ Woche | Datum  |  Thema                                       |  Wer
 7     | 30.10  | [Ergänzung zu Aufgabe 2](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_l4_ErgaenzungA2.pdf)  |  PvR
 8     | 06.11  | [Pedigreemm und Fallunterscheidung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/zl_w8_l5.pdf)  |  PvR
 9     | 13.11  | [Inverse der Verwandtschaftsmatrix](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w9/zl_w9_l6.pdf)  |  PvR
-
+10    | 20.11  | [Aufstellen BLUP Mischmodellgleichungen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w10/Uebung7_Loesung.pdf)  |  BG
 
 ### Weitere Materialien
 Woche | Datum  |  Thema                                       |  Wer
