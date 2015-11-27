@@ -65,6 +65,9 @@ Woche | Datum  |  Thema                                       |  Wer
 7     | 30.10  | [Pedigreemm und Fallunterscheidung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_u5.pdf)  |  PvR
 8     | 06.11  | [Inverse der Verwandtschaftsmatrix](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/zl_w8_u6.pdf)  |  PvR
 9     | 13.11  | [Aufstellen BLUP Mischmodellgleichungen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w9/Uebung7.pdf)  |  BG
+10    | 20.11  | keine Übung                                  |
+11    | 27.11  | [Kopplungsungleichgewicht und GWAS](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/Uebung8.pdf)  |  BG
+
 
 ### Lösungen
 Woche | Datum  |  Thema                                       |  Wer
@@ -89,6 +92,10 @@ Woche | Datum  |  Thema                                       |  Wer
 5     | 16.10  | [Webapplikation Quantitative Genetik](https://lbg-ethz.shinyapps.io/QgenDemoSwa)                                                 |  PvR
 6     | 23.10  | [Korrigierter Datensatz zu Übung 3](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/simgenphencorr.csv)           |  PvR 
 7     | 30.10  | [Datensatz zu Übung 5](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_u5_DataLmm.csv)                     |  PvR
+11    | 27.11  | [Datensatz 1 zu Übung 8](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/SNP_LD.txt)                              | BG
+11    | 27.11  | [Datensatz 2 zu Übung 8](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/yvec.txt)                                | BG
+11    | 27.11  | [Datensatz 3 zu Übung 8](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/xmatrix.txt)                             | BG
+11    | 27.11  | [Datensatz 4 zu Übung 8](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/map_markers.txt)                         | BG
 
 ------
 
