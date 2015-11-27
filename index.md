@@ -48,7 +48,7 @@ Woche | Datum  |  Thema                                                         
 8     | 06.11  | [BLUP ein Merkmal](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/Slides_woche8_Upload.pdf)  |  BG
 9     | 13.11  | [Verschiedene BLUP Modelle](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w9/Slides_woche9_Upload.pdf)  |  BG
 10    | 20.11  | [Grundlagen Molekulargenetik](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w10/Slides_woche10_klein.pdf)|  BG
-11    | 27.11  | QTL-Mapping und Genomweite Assoziationsstudien                  |  BG
+11    | 27.11  | [QTL-Mapping und Genomweite Assoziationsstudien](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/Slides_woche11.pdf)      |  BG
 12    | 04.12  | Genomweite Assoziationsstudien und Genomische Selektion I       |  BG
 13    | 11.12  | Genomische Selektion II                                         |  BG
 14    | 18.12  | Prüfung                                                         |  BG, PvR
