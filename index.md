@@ -100,9 +100,10 @@ Woche | Datum  |  Thema                                       |  Wer
 11    | 27.11  | [Datensatz 4 zu Übung 8](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/map_markers.txt)                         | BG
 12    | 04.12  | [Datensatz 1 zu Übung 9](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/x_kalb.dat)                              | BG
 12    | 04.12  | [Datensatz 2 zu Übung 9](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/y_kalb.dat)                              | BG
+13    | 09.12  | [Herleitungen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/notes/zl_Herleitungen.pdf)   |  PvR
 
 ------
 
-_Letzte Modifikation: 2015/11/12 (pvr)_
+_Letzte Modifikation: 2015/12/09 (pvr)_
 
 
