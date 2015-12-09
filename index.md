@@ -101,6 +101,7 @@ Woche | Datum  |  Thema                                       |  Wer
 12    | 04.12  | [Datensatz 1 zu Übung 9](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/x_kalb.dat)                              | BG
 12    | 04.12  | [Datensatz 2 zu Übung 9](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/y_kalb.dat)                              | BG
 13    | 09.12  | [Herleitungen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/notes/zl_Herleitungen.pdf)   |  PvR
+13    | 09.12  | [Pedigreemm Output](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/notes/zl_pedigreemm_output.pdf)   |  PvR
 
 ------
 
