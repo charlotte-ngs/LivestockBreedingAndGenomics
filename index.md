@@ -46,11 +46,11 @@ Woche | Datum  |  Thema                                                         
 7     | 30.10  | [Varianzkomponententschätzung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_v6_Varianzkomponenten.pdf)    |  PvR
 8     | 06.11  | [Übersicht](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/zl_w8_v7_Uebersicht.pdf)                               |  PvR
 8     | 06.11  | [BLUP ein Merkmal](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/Slides_woche8_Upload.pdf)  |  BG
-9     | 13.11  | BLUP mehrere Merkmale, wirtschaftliche Gewichte                 |  BG
-10    | 20.11  | Kopplungsungleichgewicht                                        |  BG
-11    | 27.11  | Genomische Selektion I                                          |  BG
-12    | 04.12  | Genomische Selektion II                                         |  BG
-13    | 11.12  | Genome-weite Assoziation Studien                                |  BG
+9     | 13.11  | [Verschiedene BLUP Modelle](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w9/Slides_woche9_Upload.pdf)  |  BG
+10    | 20.11  | [Grundlagen Molekulargenetik](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w10/Slides_woche10_klein.pdf)|  BG
+11    | 27.11  | [QTL-Mapping und Genomweite Assoziationsstudien](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/Slides_woche11.pdf)      |  BG
+12    | 04.12  | [Genomweite Assoziationsstudien und Genomische Selektion](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/Slides_woche12_Upload.pdf)       |  BG
+13    | 11.12  | Genomische Selektion II                                         |  BG
 14    | 18.12  | Prüfung                                                         |  BG, PvR
 
 
@@ -64,6 +64,11 @@ Woche | Datum  |  Thema                                       |  Wer
 6     | 23.10  | [Verwandtschaft, Inzucht und Loops](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w6/zl_w6_u4.pdf)  |  PvR
 7     | 30.10  | [Pedigreemm und Fallunterscheidung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_u5.pdf)  |  PvR
 8     | 06.11  | [Inverse der Verwandtschaftsmatrix](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/zl_w8_u6.pdf)  |  PvR
+9     | 13.11  | [Aufstellen BLUP Mischmodellgleichungen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w9/Uebung7.pdf)  |  BG
+10    | 20.11  | keine Übung                                  |
+11    | 27.11  | [Kopplungsungleichgewicht und GWAS](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/Uebung8.pdf)  |  BG
+12    | 04.12  | [SNP-BLUP](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/Uebung9.pdf)                           |  BG
+
 
 ### Lösungen
 Woche | Datum  |  Thema                                       |  Wer
@@ -75,7 +80,8 @@ Woche | Datum  |  Thema                                       |  Wer
 7     | 30.10  | [Ergänzung zu Aufgabe 2](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_l4_ErgaenzungA2.pdf)  |  PvR
 8     | 06.11  | [Pedigreemm und Fallunterscheidung](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w8/zl_w8_l5.pdf)  |  PvR
 9     | 13.11  | [Inverse der Verwandtschaftsmatrix](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w9/zl_w9_l6.pdf)  |  PvR
-
+10    | 20.11  | [Aufstellen BLUP Mischmodellgleichungen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w10/Uebung7_Loesung.pdf)  |  BG
+12    | 04.12  | [Kopplungsungleichgewicht und GWAS](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/Uebung8Loesung.pdf)  |  BG
 
 ### Weitere Materialien
 Woche | Datum  |  Thema                                       |  Wer
@@ -88,9 +94,16 @@ Woche | Datum  |  Thema                                       |  Wer
 5     | 16.10  | [Webapplikation Quantitative Genetik](https://lbg-ethz.shinyapps.io/QgenDemoSwa)                                                 |  PvR
 6     | 23.10  | [Korrigierter Datensatz zu Übung 3](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w5/simgenphencorr.csv)           |  PvR 
 7     | 30.10  | [Datensatz zu Übung 5](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w7/zl_w7_u5_DataLmm.csv)                     |  PvR
+11    | 27.11  | [Datensatz 1 zu Übung 8](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/SNP_LD.txt)                              | BG
+11    | 27.11  | [Datensatz 2 zu Übung 8](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/yvec.txt)                                | BG
+11    | 27.11  | [Datensatz 3 zu Übung 8](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/xmatrix.txt)                             | BG
+11    | 27.11  | [Datensatz 4 zu Übung 8](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/map_markers.txt)                         | BG
+12    | 04.12  | [Datensatz 1 zu Übung 9](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/x_kalb.dat)                              | BG
+12    | 04.12  | [Datensatz 2 zu Übung 9](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/y_kalb.dat)                              | BG
+13    | 09.12  | [Herleitungen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/notes/zl_Herleitungen.pdf)   |  PvR
 
 ------
 
-_Letzte Modifikation: 2015/11/12 (pvr)_
+_Letzte Modifikation: 2015/12/09 (pvr)_
 
 
