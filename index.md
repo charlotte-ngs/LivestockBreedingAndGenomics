@@ -82,7 +82,7 @@ Woche | Datum  |  Thema                                       |  Wer
 9     | 13.11  | [Inverse der Verwandtschaftsmatrix](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w9/zl_w9_l6.pdf)  |  PvR
 10    | 20.11  | [Aufstellen BLUP Mischmodellgleichungen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w10/Uebung7_Loesung.pdf)  |  BG
 12    | 04.12  | [Kopplungsungleichgewicht und GWAS](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/Uebung8Loesung.pdf)  |  BG
-13    | 11.12  | [SNP-BLUP](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w13/Uebung9_Loesung.pdf)                          |  BG
+13    | 11.12  | [SNP-BLUP](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w13/Uebung9_Loesung.pdf)  |  BG
 
 ### Weitere Materialien
 Woche | Datum  |  Thema                                       |  Wer
