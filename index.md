@@ -50,7 +50,7 @@ Woche | Datum  |  Thema                                                         
 10    | 20.11  | [Grundlagen Molekulargenetik](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w10/Slides_woche10_klein.pdf)|  BG
 11    | 27.11  | [QTL-Mapping und Genomweite Assoziationsstudien](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/Slides_woche11.pdf)      |  BG
 12    | 04.12  | [Genomweite Assoziationsstudien und Genomische Selektion](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/Slides_woche12_Upload.pdf)       |  BG
-13    | 11.12  | Genomische Selektion II                                         |  BG
+13    | 11.12  | [Genomische Selektion II](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w13/Slides_woche13.pdf)                                         |  BG
 14    | 18.12  | Prüfung                                                         |  BG, PvR
 
 
