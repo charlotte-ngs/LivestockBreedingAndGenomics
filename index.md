@@ -50,7 +50,7 @@ Woche | Datum  |  Thema                                                         
 10    | 20.11  | [Grundlagen Molekulargenetik](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w10/Slides_woche10_klein.pdf)|  BG
 11    | 27.11  | [QTL-Mapping und Genomweite Assoziationsstudien](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w11/Slides_woche11.pdf)      |  BG
 12    | 04.12  | [Genomweite Assoziationsstudien und Genomische Selektion](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/Slides_woche12_Upload.pdf)       |  BG
-13    | 11.12  | Genomische Selektion II                                         |  BG
+13    | 11.12  | [Genomische Selektion II](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w13/Slides_woche13.pdf)                                         |  BG
 14    | 18.12  | Prüfung                                                         |  BG, PvR
 
 
@@ -82,6 +82,7 @@ Woche | Datum  |  Thema                                       |  Wer
 9     | 13.11  | [Inverse der Verwandtschaftsmatrix](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w9/zl_w9_l6.pdf)  |  PvR
 10    | 20.11  | [Aufstellen BLUP Mischmodellgleichungen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w10/Uebung7_Loesung.pdf)  |  BG
 12    | 04.12  | [Kopplungsungleichgewicht und GWAS](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/Uebung8Loesung.pdf)  |  BG
+13    | 11.12  | [SNP-BLUP](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w13/Uebung9_Loesung.pdf)  |  BG
 
 ### Weitere Materialien
 Woche | Datum  |  Thema                                       |  Wer
@@ -101,6 +102,7 @@ Woche | Datum  |  Thema                                       |  Wer
 12    | 04.12  | [Datensatz 1 zu Übung 9](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/x_kalb.dat)                              | BG
 12    | 04.12  | [Datensatz 2 zu Übung 9](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/w12/y_kalb.dat)                              | BG
 13    | 09.12  | [Herleitungen](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/notes/zl_Herleitungen.pdf)   |  PvR
+13    | 09.12  | [Pedigreemm Output](http://charlotte-ngs.github.io/LivestockBreedingAndGenomics/notes/zl_pedigreemm_output.pdf)   |  PvR
 
 ------
 
